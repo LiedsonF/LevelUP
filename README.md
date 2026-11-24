@@ -69,13 +69,13 @@ LEVEL-UP/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/LiedsonF/LEVEL-UP.git
+git clone https://github.com/LiedsonF/LevelUP.git
 ```
 
 2. Entre na pasta:
 
 ```bash
-cd LEVEL-UP
+cd LevelUP
 ```
 
 3. Abra o arquivo `index.html` no navegador.
